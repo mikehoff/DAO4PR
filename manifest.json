@@ -1,0 +1,12 @@
+{
+  "name": "DAO4PR",
+  "description": "A scholarly Peer Review application for Aragon (Ethereum)",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/index.html",
+  "script": "/script.js"
+}
