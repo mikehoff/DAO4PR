@@ -1,4 +1,5 @@
 # DAO4PR App for Ethereum
+Small change
 
 This is an Aragon application for scholarly Peer Review on the blockchain.
 
